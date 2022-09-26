@@ -1,0 +1,23 @@
+{
+  "name": "serverswithexpress",
+  "version": "1.0.0",
+  "description": "the request and responce object sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbasehewa/ServersWithExpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbasehewa/ServersWithExpress/issues"
+  },
+  "homepage": "https://github.com/rbasehewa/ServersWithExpress#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
